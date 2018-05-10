@@ -1,3 +1,6 @@
+// 二分查找变型： 旋转过后的已排序数列的查找
+// 正确处理二分查找时mid的index的求解
+
 // https://leetcode.com/problems/search-in-rotated-sorted-array/
 class Solution{
     public:
