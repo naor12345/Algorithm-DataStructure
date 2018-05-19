@@ -1,7 +1,7 @@
-// ·­×ªÕûÊı
-// ÓÃstring´¦Àí£¨µÍ¼¶£©
-// Ö±½Ó²»¶ÏÈ¡Óà³ıÒÔ10£¬²¢ÀÛ¼Ó
-// ×¢Òâtry catchµÄÊ¹ÓÃ
+// ç¿»è½¬æ•´æ•°
+// ç”¨stringå¤„ç†ï¼ˆä½çº§ï¼‰
+// ç›´æ¥ä¸æ–­å–ä½™é™¤ä»¥10ï¼Œå¹¶ç´¯åŠ 
+// æ³¨æ„try catchçš„ä½¿ç”¨
 
 // https://leetcode.com/problems/reverse-integer/description/
 class Solution {
