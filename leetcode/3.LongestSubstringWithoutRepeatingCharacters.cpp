@@ -1,5 +1,5 @@
-// ×î³¤²»ÖØ¸´×Ó´®
-// Ò»±éforÑ­»·£¬ÓÃmap<char, int> ±ê×¢s[i]³öÏÖµÄÎ»ÖÃ£¬±¾ÖÊË¼ÏëÊÇ¶¯Ì¬¹æ»®¡£
+// æœ€é•¿ä¸é‡å¤å­ä¸²
+// ä¸€éforå¾ªç¯ï¼Œç”¨map<char, int> æ ‡æ³¨s[i]å‡ºç°çš„ä½ç½®ï¼Œæœ¬è´¨æ€æƒ³æ˜¯åŠ¨æ€è§„åˆ’ã€‚
 
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 class Solution {

@@ -1,5 +1,5 @@
-// 求两个已排序数列的中位数
-// 先求中位数的index（判定奇偶），先归并，再查找（或者同时进行）
+// 姹備袱涓凡鎺掑簭鏁板垪鐨勪腑浣嶆暟
+// 鍏堟眰涓綅鏁扮殑index锛堝垽瀹氬鍋讹級锛屽厛褰掑苟锛屽啀鏌ユ壘锛堟垨鑰呭悓鏃惰繘琛岋級
 
 // https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 class Solution {
