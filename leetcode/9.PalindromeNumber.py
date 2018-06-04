@@ -1,3 +1,6 @@
+# 数位处理：不要用字符串（因为开销很大），用while循环除以10判断
+
+
 class Solution(object):
     def getNum(self, x, y):
         return (x % pow(10, y)) // pow(10, y-1)
